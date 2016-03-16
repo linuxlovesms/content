@@ -1,6 +1,6 @@
-{{name:Сатья Наделла}}
-{{company:Microsoft}}
-{{title:Microsoft loves Linux}}
+{name}Сатья Наделла{/name}
+{company}Microsoft{/company}
+{title}Microsoft loves Linux{/title}
 ## Microsoft loves Linux - статья 1, вводная ##
 
 Совсем недавно **Сатья Наделла, CEO Microsoft,** использовал в презентации слайд "Microsoft ♥ Linux". В серии статей мы посмотрим на то, что это значит и как это использовать.
