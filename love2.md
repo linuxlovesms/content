@@ -1,4 +1,5 @@
 {name}Сатья Наделла{/name}{company}Microsoft{/company}{title}Гостевая ОС и Integration Services{/title}{cat}Облачные решения{/cat}
+
 Сегодня - про то, как Microsoft разрабатывает необходимые для работы Linux и FreeBSD программное обеспечение. 
 
 # Гостевая ОС и Integration Services  #
