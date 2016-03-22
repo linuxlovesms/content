@@ -1,5 +1,6 @@
-{name}Сатья Наделла{/name}{company}Microsoft{/company}{title}Microsoft loves Linux{/title}{cat}Облачные решения{/cat}
-## Microsoft loves Linux - статья 1, вводная ##
+{name}Alex Belotserkovskiy{/name}{company}Microsoft{/company}{title}Microsoft loves Linux - статья 1, вводная{/title}{cat}0{/cat}{date}01.02.2016{/date}{desc}Сегодня рассказываем о взаимоотношении Microsoft и Linux{/desc}
+
+##  ##
 
 Совсем недавно **Сатья Наделла, CEO Microsoft,** использовал в презентации слайд "Microsoft ♥ Linux". В серии статей мы посмотрим на то, что это значит и как это использовать.
 
