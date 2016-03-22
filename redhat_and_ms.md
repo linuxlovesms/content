@@ -1,4 +1,4 @@
-{name}Анна Гречишкина{/name}{company}Microsoft{/company}{title}Партнёрство Red Hat и Microsoft: вопросы и ответы{/title}{cat}Облачные решения{/cat}
+{name}Anna Grechishkina{/name}{company}Microsoft{/company}{title}Партнерство Red Hat и Microsoft{/title}{cat}0{/cat}{date}01.02.2016{/date}{desc}Сегодня рассказываем о партнерстве Red Hat и Microsoft{/desc}
 
 На этом вебинаре мы расскажем о главных элементах недавно объявленного партнёрства компаний Red Hat и Microsoft.
 Это сотрудничество предоставляет новые возможности и более широкий выбор развертывания решений на базе продуктов компании Red Hat на Microsoft Azure.
