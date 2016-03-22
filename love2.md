@@ -1,8 +1,4 @@
-{name}Сатья Наделла{/name}{company}Microsoft{/company}{title}Гостевая ОС и Integration Services{/title}{cat}1{/cat}{date}01.03.2016{/date}{desc}Сегодня - про то, как Microsoft разрабатывает необходимые для работы Linux и FreeBSD программное обеспечение.{/desc}
-
-Сегодня - про то, как Microsoft разрабатывает необходимые для работы Linux и FreeBSD программное обеспечение.
-
-# Гостевая ОС и Integration Services  #
+{name}Alex Belotserkovskiy {/name}{company}Microsoft{/company}{title}Гостевая ОС и Integration Services{/title}{cat}1{/cat}{date}01.03.2016{/date}{desc}Сегодня - про то, как Microsoft разрабатывает необходимые для работы Linux и FreeBSD программное обеспечение.{/desc}
 
 Частый вопрос - что можно запустить на Hyper-V? 
 Проще всего ответить на него картинкой. 
