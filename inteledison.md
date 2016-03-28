@@ -13,10 +13,12 @@
 
 Git это распределённая система контроля версий. Её надо будет установить, чтобы клонировать Azure IoT SDK и построить его локально. Для этого надо установить пакеты, которые включают Git. Intel Edison основанный на [Yocto](http://www.yoctoproject.org/docs/latest/adt-manual/adt-manual.html), использует менеджер пакетов opkg и по умолчанию не включает поддержку Git.
 
-На Intel Edison в файл `/etc/opkg/base-feeds.conf` добавьте следующие строки:
+На Intel Edison в файл /etc/opkg/base-feeds.conf добавьте следующие строки:
 
 `src/gz all http://repo.opkg.net/edison/repo/all`
+
 `src/gz edison http://repo.opkg.net/edison/repo/edison`
+
 `src/gz core2-32 http://repo.opkg.net/edison/repo/core2-32`
 
 Это можно сделать, например, через встроенный редактор vi. 
@@ -36,6 +38,7 @@ Git это распределённая система контроля верс
 
 Используйте Git на Intel Edison для клонирования репозитория Azure SDK следующими командами. Мы рекомендуем использовать папку по умолчанию /home/root:
 `$ opkg install git`
+
 `$ git clone git@github.com:Azure/azure-iot-sdks.git`
 
 Если вас попросят добавить ключ RSA на ваше устройство, ответьте «yes».
@@ -62,7 +65,9 @@ Git это распределённая система контроля верс
 В терминале зайдите в /c/build_all/linux и выполните следующие шаги:
 
 `$ opkg install util-linux-libuuid-dev`
+
 `$ ./build_proton.sh`
+
 `$ ./build.sh`
 
 
