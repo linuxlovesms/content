@@ -1,3 +1,5 @@
+{name}Vladimir Yunev{/name}{company}Microsoft{/company}{title}Открытая БД Tarantool от Mail.ru сертифицирована и размещена в Azure Marketplace{/title}{cat}0{/cat}{date}28.03.2016{/date}{desc}Представляем вашему вниманию статью о применении открытой БД Tarantool от Mail.ru в облаке Azure{/desc}
+
 Уважаемые коллеги, у меня для вас отличные новости!
 
 ![image](https://habrastorage.org/getpro/habr/post_images/116/76b/f0b/11676bf0b9048d8aa4a8d7fd04e87039.png)
