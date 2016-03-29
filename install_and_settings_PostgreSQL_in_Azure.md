@@ -1,4 +1,4 @@
-{name}Scott Zhang{/name}{company}PostgreSQL{/company}{title}Установка и настройка PostgreSQL в Azure{/title}{cat}1{/cat}{date}01.02.2016{/date}{desc}Сегодня рассказываем как настроить PostgreSQL в Azure{/desc}
+{name}Scott Zhang{/name}{company}PostgreSQL{/company}{title}Установка и настройка PostgreSQL в Azure{/title}{cat}0{/cat}{date}01.02.2016{/date}{desc}Сегодня рассказываем как настроить PostgreSQL в Azure{/desc}
 
 PostgreSQL — это расширенная открытая СУБД, аналогичная СУБД Oracle и DB2. Она предлагает возможности корпоративного уровня, обеспечивая полное соответствие принципам ACID, надежную обработку транзакций и управление параллелизмом в разных версиях. Она также поддерживает такие стандарты, как ANSI SQL и SQL/MED (включая оболочки для внешних данных Oracle, MySQL, MongoDB и др.). Высокая расширяемость обеспечивается поддержкой более 12 процедурных языков, индексов GIN и GIST, пространственных данных, различных функций NoSQL для JSON и приложений на основе пары "ключ — значение".
 
