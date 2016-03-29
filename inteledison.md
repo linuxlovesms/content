@@ -1,4 +1,4 @@
-{name}Victor Gurylev{/name}{company}Intel{/company}{title}Настройка платы Intel Edison для Microsoft Azure IoT suite{/title}{cat}3{/cat}{date}28.03.2016{/date}{desc}В этом руководстве будет рассказано, как подключить плату Intel Edison к облачному сервису Microsoft Azure.{/desc}
+{name}Victor Gurylev{/name}{company}Intel{/company}{title}Настройка платы Intel Edison для Microsoft Azure IoT suite{/title}{cat}1{/cat}{date}28.03.2016{/date}{desc}В этом руководстве будет рассказано, как подключить плату Intel Edison к облачному сервису Microsoft Azure.{/desc}
 
 ![pic_title](https://habrastorage.org/files/655/3e6/b79/6553e6b797824cbba34ba93d082e7a4c.jpg)
 Проверьте, что у вас установлена последняя версия образа на Intel Edison. Для этого следуйте [инструкциям](https://software.intel.com/en-us/iot/library/edison-getting-started) на сайте Intel. После этого вам надо будет [настроить последовательное соединение](https://software.intel.com/en-us/setting-up-serial-terminal-intel-edison-board). Затем вы сможете выполнить установку Azure IoT SDK, используя наши инструкции.
