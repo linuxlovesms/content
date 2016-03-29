@@ -1,4 +1,4 @@
-{name}Alex Belotserkovskiy{/name}{company}Microsoft{/company}{title}Веб-разработка{/title}{cat}1{/cat}{date}21.03.2016{/date}{desc}Сегодня расскажем об ALM{/desc}
+{name}Alex Belotserkovskiy{/name}{company}Microsoft{/company}{title}Веб-разработка{/title}{cat}2{/cat}{date}21.03.2016{/date}{desc}Сегодня расскажем об ALM{/desc}
 
 В процессе разработки обычными проблемами является размещение проекта, размещение связанных с ним ресурсов (базы данных, маршрутизаторы траффика, другие дистрибутивы), управление и мониторинг. Общим термином для этого может считаться ALM (Application Lifecycle Management), или управление жизненным циклом проекта. 
  
