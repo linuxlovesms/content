@@ -1,3 +1,5 @@
+{name}Alex Belotserkovskiy{/name}{company}Microsoft{/company}{title}Почему Microsoft{/title}{cat}6{/cat}{date}01.03.2016{/date}{desc}{/desc}
+
 ##Почему Microsoft?
 
 Еще недавно в это было сложно поверить, а теперь это свершившийся факт - 
