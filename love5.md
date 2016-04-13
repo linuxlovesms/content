@@ -1,5 +1,4 @@
-{name}Alex Belotserkovskiy{/name}{company}Microsoft{/company}{title}Microsoft Loves Linux, часть 5 Сетевой стек и функциональность
-Linux{/title}{cat}0{/cat}{date}12.04.2016{/date}{desc}Сетевой стек и функциональность
+{name}Alex Belotserkovskiy{/name}{company}Microsoft{/company}{title}Microsoft Loves Linux часть 5 Сетевой стек и функциональность Linux{/title}{cat}0{/cat}{date}12.04.2016{/date}{desc}Сетевой стек и функциональность
 Linux на Hyper-V{/desc}
 
 **Производительность сети в Linux**
