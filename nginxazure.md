@@ -24,7 +24,7 @@
 вы откроете панель управления облачными мощностями Microsoft Azure,
 предоставленными вам по запросу (рисунок 1).
 
-![](https://github.com/linuxlovesms/content/blob/master/nginx1.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx1.png)
 
 *Рис.1 – Портал Microsoft Azure*
 
