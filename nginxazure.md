@@ -33,7 +33,7 @@
 машину с NGINX. Введите в строку поиска NGINX. Вы получите полный список
 доступных в Azure Marketplace конфигураций NGINX на выбор (рисунок 2).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx2.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx2.png?raw=true)
 
 *Рис.2. – Список NGINX в Azure Marketplace*
 
@@ -43,7 +43,7 @@
 «Создать». Теперь вы перейдете к непосредственному созданию виртуальной
 машины, выбранной из Azure Marketplace (рисунок 3).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx3.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx3.png?raw=true)
 
 *Рис.3. – Создание виртуальной машины*
 
@@ -66,7 +66,7 @@
 которые расположены по всему миру. Ближайшие к России ЦОД – это Северная
 или Западная Европа. Выберите один из них.
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx4.png)}
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx4.png?raw=true)}
 
 *Рис.4. – Параметры первого шага создания виртуальной машины*
 
@@ -76,7 +76,7 @@
 Но вы всегда можете выбрать другой размер нажав на «Просмотреть все»
 (рисунок 4).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx5.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx5.png?raw=true)
 
 *Рис.4. – Выбор размера виртуальной машины*
 
@@ -90,7 +90,7 @@
 виртуальную сеть, безопасность, включить мониторинг, создать группу
 доступности для отказоустойчивой работы VM (рисунок 5).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx6.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx6.png?raw=true)
 
 *Рис.5. – Тонкие настройки развертывания VM*
 
@@ -100,7 +100,7 @@
 Вы получите информационное окно с перечислением ваших настроек (рисунок
 6).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx7.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx7.png?raw=true)
 
 *Рис.6. – Информационное окно с настройками*
 
@@ -115,7 +115,7 @@
 содержание виртуальной машины стоит 0 рублей. Стоимость выбранной нами
 самой VM, которую предоставить Microsoft Azure – около 3 р. в час.
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx8.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx8.png?raw=true)
 
 *Рис.7. – Приобретение виртуальной машины*
 
@@ -124,7 +124,7 @@
 
 Вы увидите информационное сообщение «Развертывание начато…» (рисунок 8).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx9.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx9.png?raw=true)
 
 *Рис.8. – Развертывание начато*
 
@@ -133,7 +133,7 @@
 (рисунок 9). В общем случае, создание виртуальной машины занимает
 несколько минут.
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx10.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx10.png?raw=true)
 
 *Рис.9. – Панель управления виртуальной машиной*
 
@@ -149,7 +149,7 @@
 администрирования. В моем случае это <http://13.74.190.132/>. Перейдя по
 этому адресу, мы увидим стандартное приветствие (рисунок 10).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx11.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx11.png?raw=true)
 
 *Рис.10 – Стандартное приветствие от запущенной в Azure машины с NGINX*
 
@@ -158,7 +158,7 @@
 подробное описание установленной конфигурации и компонент NGINX (рисунок
 11).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx12.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx12.png?raw=true)
 
 *Рис.11. – Описание NGINX-стека*
 
@@ -169,7 +169,7 @@
 в панели настройки укажите наименование для вашей VM, которое будет
 включено в FDQN-путь (рисунок 12).
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx13.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx13.png?raw=true)
 
 *Рис.12. – Добавление FDQN-пути для виртуальной машины*
 
@@ -185,7 +185,7 @@
 где vyunev – имя пользователя (администратора), которое вы указали при
 создании VM.
 
-![](https://github.com/linuxlovesms/content/blob/master/media/nginx14.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/nginx14.png?raw=true)
 
 *Рис.13. – Подключение к виртуальной машине по SSH*
 
