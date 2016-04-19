@@ -24,7 +24,7 @@
 вы откроете панель управления облачными мощностями Microsoft Azure,
 предоставленными вам по запросу (рисунок 1).
 
-![](media/rh1.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh1.png?raw=true)
 
 
 *Рис.1 – Портал Microsoft Azure*
@@ -35,7 +35,7 @@
 список доступных в Azure Marketplace конфигураций Red Hat на выбор
 (рисунок 2).
 
-![](media/rh2.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh2.png?raw=true)
 
 
 *Рис.2. – Список Red Hat в Azure Marketplace*
@@ -44,7 +44,7 @@
 нажмите кнопку «Создать». Теперь вы перейдете к непосредственному
 созданию виртуальной машины, выбранной из Azure Marketplace (рисунок 3).
 
-![](media/rh3.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh3.png?raw=true)
 
 
 *Рис.3. – Создание виртуальной машины*
@@ -68,7 +68,7 @@
 которые расположены по всему миру. Ближайшие к России ЦОД – это Северная
 или Западная Европа. Выберите один из них.
 
-![](media/rh4.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh4.png?raw=true)
 
 
 *Рис.4. – Параметры первого шага создания виртуальной машины*
@@ -79,7 +79,7 @@
 Но вы всегда можете выбрать другой размер нажав на «Просмотреть все»
 (рисунок 4).
 
-![](media/rh5.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh5.png?raw=true)
 
 
 *Рис.4. – Выбор размера виртуальной машины*
@@ -94,7 +94,7 @@
 виртуальную сеть, безопасность, включить мониторинг, создать группу
 доступности для отказоустойчивой работы VM (рисунок 5).
 
-![](media/rh6.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh6.png?raw=true)
 
 
 *Рис.5. – Тонкие настройки развертывания VM*
@@ -105,7 +105,7 @@
 Вы получите информационное окно с перечислением ваших настроек (рисунок
 6).
 
-![](media/rh7.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh7.png?raw=true)
 
 
 *Рис.6. – Информационное окно с настройками*
@@ -116,7 +116,7 @@
 
 Вы увидите информационное сообщение «Развертывание начато…» (рисунок 7).
 
-![](media/rh8.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh8.png?raw=true)
 
 
 *Рис.7. – Развертывание начато*
@@ -126,7 +126,7 @@
 (рисунок 8). В общем случае, создание виртуальной машины занимает
 несколько минут.
 
-![](media/rh9.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh9.png?raw=true)
 
 
 *Рис.8. – Панель управления виртуальной машиной*
@@ -153,7 +153,7 @@
 представлена в виде (мой случай)
 <http://vyuredhat.northeurope.cloudapp.azure.com/>.
 
-![](media/rh10.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh10.png?raw=true)
 
 
 *Рис.9. – Добавление FDQN-пути для виртуальной машины*
@@ -168,7 +168,7 @@
 
 Или просто используя адрес в любимом инструменте (рисунок 13).
 
-![](media/rh11.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh11.png?raw=true)
 height="4.108333333333333in"}
 
 *Рис.10. – Подключение к виртуальной машине по SSH*
@@ -182,7 +182,7 @@ height="4.108333333333333in"}
 встроенная поддержка Red Hat. Вы можете получить ее из панели управления
 виртуальной машиной (рисунок 11).
 
-![](media/rh12.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh12.png?raw=true)
 
 
 *Рис.11. – Клиентская поддержка Red Hat в Azure*
@@ -190,7 +190,7 @@ height="4.108333333333333in"}
 Вы можете затем перейти по указанной ссылке и получить квалифицированную
 официальную поддержку решений Red Hat в облаке Azure (рисунок 12).
 
-![](media/rh13.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/rh13.png?raw=true)
 
 
 *Рис.12. – Портал поддержки пользователей Azure и Red Hat*
