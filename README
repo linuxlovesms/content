@@ -17,3 +17,9 @@ Microsoft и Linux для IT - 0
 {desc}Сегодня рассказываем как настроить PostgreSQL в Azure{/desc} - краткое описание статьи
 
 Заголовок указывается не в теле статьи, а в теге {title}{/title}
+
+
+При добавлении изображений указывается полный путь, пр.: 
+![1](https://github.com/linuxlovesms/content/blob/master/media/rh1.png?raw=true)
+![2](https://upload.wikimedia.org/wikipedia/ru/a/ac/Redhat_ddj.png)
+![3](https://c.s-microsoft.com/ru-ru/CMSImages/stresstestazure14.png?version=e89efeb4-94eb-86ec-05b9-8543689eae2e)
