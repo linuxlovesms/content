@@ -24,7 +24,7 @@
 вы откроете панель управления облачными мощностями Microsoft Azure,
 предоставленными вам по запросу (рисунок 1).
 
-![](media/dj1.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj1.png?raw=true)
 
 
 *Рис.1 – Портал Microsoft Azure*
@@ -35,7 +35,7 @@
 полный список доступных в Azure Marketplace конфигураций Django на выбор
 (рисунок 2).
 
-![](media/dj2.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj2.png?raw=true)
 
 
 *Рис.2. – Список Django в Azure Marketplace*
@@ -44,7 +44,7 @@
 «Создать». Теперь вы перейдете к непосредственному созданию виртуальной
 машины, выбранной из Azure Marketplace (рисунок 3).
 
-![](media/dj3.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj3.png?raw=true)
 
 
 *Рис.3. – Создание виртуальной машины*
@@ -68,7 +68,7 @@
 которые расположены по всему миру. Ближайшие к России ЦОД – это Северная
 или Западная Европа. Выберите один из них.
 
-![](media/dj4.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj4.png?raw=true)
 
 
 *Рис.4. – Параметры первого шага создания виртуальной машины*
@@ -79,7 +79,7 @@
 Но вы всегда можете выбрать другой размер нажав на «Просмотреть все»
 (рисунок 4).
 
-![](media/dj5.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj5.png?raw=true)
 
 
 *Рис.4. – Выбор размера виртуальной машины*
@@ -94,7 +94,7 @@
 виртуальную сеть, безопасность, включить мониторинг, создать группу
 доступности для отказоустойчивой работы VM (рисунок 5).
 
-![](media/dj6.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj6.png?raw=true)
 
 
 *Рис.5. – Тонкие настройки развертывания VM*
@@ -105,7 +105,7 @@
 Вы получите информационное окно с перечислением ваших настроек (рисунок
 6).
 
-![](media/dj7.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj7.png?raw=true)
 
 
 *Рис.6. – Информационное окно с настройками*
@@ -121,7 +121,7 @@
 содержание виртуальной машины стоит 0 рублей. Стоимость выбранной нами
 самой VM, которую предоставить Microsoft Azure – около 3 р. в час.
 
-![](media/dj8.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj8.png?raw=true)
 
 
 *Рис.7. – Приобретение виртуальной машины*
@@ -131,7 +131,7 @@
 
 Вы увидите информационное сообщение «Развертывание начато…» (рисунок 8).
 
-![](media/dj9.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj9.png?raw=true)
 
 
 *Рис.8. – Развертывание начато*
@@ -141,7 +141,7 @@
 (рисунок 9). В общем случае, создание виртуальной машины занимает
 несколько минут.
 
-![](media/dj10.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj10.png?raw=true)
 
 
 *Рис.9. – Панель управления виртуальной машиной*
@@ -158,7 +158,7 @@
 администрирования. В моем случае это <http://40.69.45.8/>. Перейдя по
 этому адресу, мы увидим стандартное приветствие (рисунок 10).
 
-![](media/dj11.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj11.png?raw=true)
 
 
 *Рис.10 – Стандартное приветствие от запущенной в Azure машины с Django*
@@ -168,7 +168,7 @@
 Django-приложение вы можете нажать на «Access my application» (рисунок
 11).
 
-![](media/dj12.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj12.png?raw=true)
 
 
 *Рис.11. – Запущенное приложение Django*
@@ -184,7 +184,7 @@ Django-приложение вы можете нажать на «Access my appl
 представлена в виде (мой случай)
 <http://vyudjango.northeurope.cloudapp.azure.com/>.
 
-![](media/dj13.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj13.png?raw=true)
 
 
 *Рис.12. – Добавление FDQN-пути для виртуальной машины*
@@ -199,7 +199,7 @@ Django-приложение вы можете нажать на «Access my appl
 
 Или просто используя адрес в любимом инструменте (рисунок 13).
 
-![](media/dj14.png)
+![](https://github.com/linuxlovesms/content/blob/master/media/dj14.png?raw=true)
 
 *Рис.13. – Подключение к виртуальной машине по SSH*
 
